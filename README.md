@@ -1,2 +1,2 @@
 # form-a-story
-3rd HTML project. Focus: taking user input, sending forms
+3rd HTML project. Subject: taking user input, sending forms
